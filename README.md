@@ -37,11 +37,11 @@
     </thead>
     <tbody>
         <tr>
-            <td>01</td>
+            <td></td>
             <td><a href="01">Website Luana </a></td>
             <td>11/01/23</td>
             <td align="center">
-            <a href="01"><img width="300px" src="01/.github/preview.jpg" /></a></td>
+            <a href="01"><img width="300px" src="" /></a></td>
         </tr>
     </tbody>
 </table></p>
