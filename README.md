@@ -39,7 +39,7 @@
         <tr>
             <td></td>
             <td><a href="01">Website Luana </a></td>
-            <td>11/01/23</td>
+            <td>2022</td>
             <td align="center">
             <a href="01"><img width="300px" src="" /></a></td>
         </tr>
