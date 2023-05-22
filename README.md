@@ -38,7 +38,7 @@
     <tbody>
         <tr>
             <td></td>
-            <td><a href="01">Website Luana </a></td>
+            <td><a href="01">Portfolio Pessoal</a></td>
             <td>2022</td>
             <td align="center">
             <a href="01"><img width="300px" src="" /></a></td>
